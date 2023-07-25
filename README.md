@@ -16,6 +16,8 @@ To sort names, run the following command:
   dotnet run unsorted-names-list.txt
 ```
 
+The terminal will show: Enter 'A' for ascending order or 'D' for descending order:
+If you want ascending order please input A, if you want descending order please input D, the default order is ascending order.
 The sorted names will be displayed in the console, and an output file named "sorted-names-list.txt" will be created with the sorted names
 
 ## Running Unit Tests
