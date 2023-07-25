@@ -31,7 +31,7 @@ class Program
         // Write the sorted names to the output file
         WriteNamesToFile(names, outputFile);
 
-        Console.WriteLine("Sorted names have been written to {0}.", outputFile);
+        Console.WriteLine("Sorted names have been written to " + outputFile);
     }
 
     static List<Name> ReadNamesFromFile(string filePath)
@@ -119,6 +119,7 @@ class Name : IComparable<Name>
         
         int result = string.Compare(LastName, other.LastName, StringComparison.OrdinalIgnoreCase);
 
+        //If last names are equal, compare first names
         if (result == 0)
         {
             int givenNameCount = Math.Max(GivenNames.Length, other.GivenNames.Length);

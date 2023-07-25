@@ -134,7 +134,7 @@ public class NameSorterTests : IDisposable
     public void CompareTo_WithDifferentLastName_ReturnsCorrectComparisonResult()
     {
         // Arrange
-        Name name1 = new Name("Frank Zhang");
+        Name name1 = new Name("Frank zhang");
         Name name2 = new Name("Jingwei Zhao");
 
         // Act

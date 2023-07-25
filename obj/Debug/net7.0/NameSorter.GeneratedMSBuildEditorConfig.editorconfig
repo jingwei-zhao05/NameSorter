@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NameSorter
-build_property.ProjectDir = /Users/jingwei/Documents/interview/NameSorter/
+build_property.ProjectDir = /Users/jingwei/Documents/BrainStation/test/NameSorter/

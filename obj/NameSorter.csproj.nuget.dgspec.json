@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jingwei/Documents/interview/NameSorter/NameSorter.csproj": {}
+    "/Users/jingwei/Documents/BrainStation/test/NameSorter/NameSorter.csproj": {}
   },
   "projects": {
-    "/Users/jingwei/Documents/interview/NameSorter/NameSorter.csproj": {
+    "/Users/jingwei/Documents/BrainStation/test/NameSorter/NameSorter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jingwei/Documents/interview/NameSorter/NameSorter.csproj",
+        "projectUniqueName": "/Users/jingwei/Documents/BrainStation/test/NameSorter/NameSorter.csproj",
         "projectName": "NameSorter",
-        "projectPath": "/Users/jingwei/Documents/interview/NameSorter/NameSorter.csproj",
+        "projectPath": "/Users/jingwei/Documents/BrainStation/test/NameSorter/NameSorter.csproj",
         "packagesPath": "/Users/jingwei/.nuget/packages/",
-        "outputPath": "/Users/jingwei/Documents/interview/NameSorter/obj/",
+        "outputPath": "/Users/jingwei/Documents/BrainStation/test/NameSorter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jingwei/.nuget/NuGet/NuGet.Config"

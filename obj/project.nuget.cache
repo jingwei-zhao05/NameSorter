@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U1pTRT1uY/3xMdSp3RL3YCoKV9JvWzKPYe5mtrFXgbxOWbejby1cf308WgxkAv21oNuFRORwl5dvG5y7TNGUWA==",
+  "dgSpecHash": "DF6Krm71l76hCX5e4oSDix4TRTIWsel+nf8O1sPkSp6Bc4p5sb5COK4OCX/3jIp7TzgMYvPqwv0+6oa+vqx8Jw==",
   "success": true,
-  "projectFilePath": "/Users/jingwei/Documents/interview/NameSorter/NameSorter.csproj",
+  "projectFilePath": "/Users/jingwei/Documents/BrainStation/test/NameSorter/NameSorter.csproj",
   "expectedPackageFiles": [
     "/Users/jingwei/.nuget/packages/microsoft.codecoverage/17.7.0-preview.23280.1/microsoft.codecoverage.17.7.0-preview.23280.1.nupkg.sha512",
     "/Users/jingwei/.nuget/packages/microsoft.net.test.sdk/17.7.0-preview.23280.1/microsoft.net.test.sdk.17.7.0-preview.23280.1.nupkg.sha512",
