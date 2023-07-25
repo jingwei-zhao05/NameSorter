@@ -1,5 +1,4 @@
 namespace NameSorter {
-
     public interface INameComparer
     {
         int Compare(Name name1, Name name2);
